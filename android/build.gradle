@@ -36,5 +36,5 @@ android {
 }
 
 dependencies {
-    implementation 'com.aliyun.openservices:aliyun-log-android-sdk:2.6.11'
+    implementation 'io.github.aliyun-sls:aliyun-log-android-sdk:2.7.13@aar'
 }
